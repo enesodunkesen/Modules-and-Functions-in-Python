@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c873be5-71d3-4e57-bc5b-5a894f45d825" name="Changes" comment="importing modules using `import` and `from` keywords">
-      <change afterPath="$PROJECT_DIR$/example.py" afterDir="false" />
+    <list default="true" id="5c873be5-71d3-4e57-bc5b-5a894f45d825" name="Changes" comment="listing attributes of a scope and objects using `dir()` function, displaying documentations about modules using `help()` function">
+      <change afterPath="$PROJECT_DIR$/browser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,12 +61,20 @@
       <option name="project" value="LOCAL" />
       <updated>1711007761305</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="listing attributes of a scope and objects using `dir()` function, displaying documentations about modules using `help()` function">
+      <created>1711010975154</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711010975154</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="importing modules using `import` and `from` keywords" />
-    <option name="LAST_COMMIT_MESSAGE" value="importing modules using `import` and `from` keywords" />
+    <MESSAGE value="listing attributes of a scope and objects using `dir()` function, displaying documentations about modules using `help()` function" />
+    <option name="LAST_COMMIT_MESSAGE" value="listing attributes of a scope and objects using `dir()` function, displaying documentations about modules using `help()` function" />
   </component>
 </project>
