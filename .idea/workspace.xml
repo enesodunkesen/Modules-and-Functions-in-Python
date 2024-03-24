@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c873be5-71d3-4e57-bc5b-5a894f45d825" name="Changes" comment="detailed explanation of `time.timezone`, `time.tzname`, `time.daylight` and implementations">
-      <change afterPath="$PROJECT_DIR$/date_and_time_2.py" afterDir="false" />
+    <list default="true" id="5c873be5-71d3-4e57-bc5b-5a894f45d825" name="Changes" comment="introduction to `datetime` and `pytz` modules for displaying time information for any chosen country by creating `datetime.tzinfo`">
+      <change afterPath="$PROJECT_DIR$/aware_time.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +32,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Enes/IdeaProjects/PythonMasterclass/modules_and_functions"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Enes/IdeaProjects/PythonMasterclass/modules_and_functions&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -97,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711226070912</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="introduction to `datetime` and `pytz` modules for displaying time information for any chosen country by creating `datetime.tzinfo`">
+      <created>1711239913363</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711239913363</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -108,6 +115,7 @@
     <MESSAGE value="introduction to time module and implementing date and times with using `gmtime()`, `localtime()` and `time()` methods" />
     <MESSAGE value="a simple reaction game with different clocks within time module(`time()`, `perf_counter()`, `monotonic()` and `process_time()`)" />
     <MESSAGE value="detailed explanation of `time.timezone`, `time.tzname`, `time.daylight` and implementations" />
-    <option name="LAST_COMMIT_MESSAGE" value="detailed explanation of `time.timezone`, `time.tzname`, `time.daylight` and implementations" />
+    <MESSAGE value="introduction to `datetime` and `pytz` modules for displaying time information for any chosen country by creating `datetime.tzinfo`" />
+    <option name="LAST_COMMIT_MESSAGE" value="introduction to `datetime` and `pytz` modules for displaying time information for any chosen country by creating `datetime.tzinfo`" />
   </component>
 </project>
