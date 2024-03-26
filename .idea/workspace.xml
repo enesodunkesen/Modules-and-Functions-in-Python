@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c873be5-71d3-4e57-bc5b-5a894f45d825" name="Changes" comment="problems about `naive` datetime objects and creating `aware` datetime objects to solve that problems with using `localize()` and `astimezone()` methods">
-      <change afterPath="$PROJECT_DIR$/tkinter_demo.py" afterDir="false" />
+    <list default="true" id="5c873be5-71d3-4e57-bc5b-5a894f45d825" name="Changes" comment="introduction to designing interfaces with `tkinter` module and placing `application widgets` using `pack` geometry manager">
+      <change afterPath="$PROJECT_DIR$/tkinter_grid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,34 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Enes/IdeaProjects/PythonMasterclass/modules_and_functions&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="tkinter_grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="modules_and_functions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter_grid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tkinter_grid" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -111,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711254060718</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="introduction to designing interfaces with `tkinter` module and placing `application widgets` using `pack` geometry manager">
+      <created>1711382218276</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711382218276</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -124,6 +159,7 @@
     <MESSAGE value="detailed explanation of `time.timezone`, `time.tzname`, `time.daylight` and implementations" />
     <MESSAGE value="introduction to `datetime` and `pytz` modules for displaying time information for any chosen country by creating `datetime.tzinfo`" />
     <MESSAGE value="problems about `naive` datetime objects and creating `aware` datetime objects to solve that problems with using `localize()` and `astimezone()` methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="problems about `naive` datetime objects and creating `aware` datetime objects to solve that problems with using `localize()` and `astimezone()` methods" />
+    <MESSAGE value="introduction to designing interfaces with `tkinter` module and placing `application widgets` using `pack` geometry manager" />
+    <option name="LAST_COMMIT_MESSAGE" value="introduction to designing interfaces with `tkinter` module and placing `application widgets` using `pack` geometry manager" />
   </component>
 </project>
